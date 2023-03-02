@@ -77,20 +77,20 @@ body {
     }
 }
 
-@media screen and (max-width:390px) {
+@media screen and (max-width:400px) {
     body {
         margin-top: 45%;
     }
     .title {
-        font-size: 35px;
+        font-size: 25px;
     }
     .launch {
         font-size: 30px;
     }
     .service {
-        font-size: 13px;
+        font-size: 11px;
     }
     .contact {
-        font-size: 15px;
+        font-size: 13px;
     }
 }
